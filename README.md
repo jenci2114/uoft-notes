@@ -9,10 +9,13 @@ Computer Science:
   - CSC110
   - CSC111
 
-Math & Statistics:
+Math:
   - MAT137
   - MAT223
   - MAT224
+
+Statistics:
+  - STA247
 
 Electives:
   - SPA100
