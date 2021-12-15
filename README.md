@@ -15,6 +15,7 @@ Math:
   - MAT137
   - MAT223
   - MAT224
+  - MAT244
 
 Statistics:
   - STA247
