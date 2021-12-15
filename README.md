@@ -8,6 +8,7 @@ The notes for the following courses can be found here:
 Computer Science:
   - CSC110
   - CSC111
+  - CSC207
   - CSC236
 
 Math:
