@@ -10,6 +10,7 @@ Computer Science:
   - CSC111
   - CSC207
   - CSC236
+  - CSC258
 
 Math:
   - MAT137
