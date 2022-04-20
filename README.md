@@ -9,6 +9,7 @@ Computer Science:
   - CSC110 - Foundations of Computer Science I
   - CSC111 - Foundations of Computer Science II
   - CSC207 - Software Design
+  - CSC209 - Software Tools and Systems Programming
   - CSC236 - Introduction to the Theory of Computation
   - CSC258 - Computer Organization
 
