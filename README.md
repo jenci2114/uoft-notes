@@ -12,6 +12,7 @@ Computer Science:
   - CSC209 - Software Tools and Systems Programming
   - CSC236 - Introduction to the Theory of Computation
   - CSC258 - Computer Organization
+  - CSC263 - Data Structures and Analysis
 
 Math:
   - MAT137 - Calculus with Proofs
