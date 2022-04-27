@@ -23,6 +23,7 @@ Math:
 
 Statistics:
   - STA247 - Probability with Computer Applications
+  - STA248 - Statistics for Computer Scientists
 
 Electives:
   - SPA100 - Spanish for Beginners
