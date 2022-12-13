@@ -13,6 +13,7 @@ Computer Science:
   - CSC236 - Introduction to the Theory of Computation
   - CSC258 - Computer Organization
   - CSC263 - Data Structures and Analysis
+  - CSC311 - Introduction to Machine Learning
 
 Math:
   - MAT137 - Calculus with Proofs
