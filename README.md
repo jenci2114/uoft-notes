@@ -14,6 +14,7 @@ Computer Science:
   - CSC258 - Computer Organization
   - CSC263 - Data Structures and Analysis
   - CSC311 - Introduction to Machine Learning
+  - CSC343 - Introduction to Databases
 
 Math:
   - MAT137 - Calculus with Proofs
