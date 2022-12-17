@@ -15,6 +15,7 @@ Computer Science:
   - CSC263 - Data Structures and Analysis
   - CSC311 - Introduction to Machine Learning
   - CSC343 - Introduction to Databases
+  - CSC373 - Algorithm Design, Analysis & Complexity
 
 Math:
   - MAT137 - Calculus with Proofs
