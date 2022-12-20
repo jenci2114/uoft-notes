@@ -16,6 +16,7 @@ Computer Science:
   - CSC311 - Introduction to Machine Learning
   - CSC343 - Introduction to Databases
   - CSC373 - Algorithm Design, Analysis & Complexity
+  - CSC384 - Introduction to Artificial Intelligence
 
 Math:
   - MAT137 - Calculus with Proofs
