@@ -6,29 +6,29 @@ Updated every December and April
 The notes for the following courses can be found here (a strikethrough on the course code indicates that the note is not as good as the ones without):
 
 Computer Science:
-  - ~~CSC110~~ - Foundations of Computer Science I
-  - ~~CSC111~~ - Foundations of Computer Science II
-  - CSC207 - Software Design
-  - CSC209 - Software Tools and Systems Programming
-  - CSC236 - Introduction to the Theory of Computation
-  - CSC258 - Computer Organization
-  - CSC263 - Data Structures and Analysis
-  - CSC311 - Introduction to Machine Learning
-  - CSC343 - Introduction to Databases
-  - CSC373 - Algorithm Design, Analysis & Complexity
-  - CSC384 - Introduction to Artificial Intelligence
+  - [~~CSC110~~](suboptimal/CSC110.pdf) - Foundations of Computer Science I
+  - [~~CSC111~~](suboptimal/CSC111.pdf) - Foundations of Computer Science II
+  - [CSC207](CSC207.pdf) - Software Design
+  - [CSC209](CSC209.pdf) - Software Tools and Systems Programming
+  - [CSC236](CSC236.pdf) - Introduction to the Theory of Computation
+  - [CSC258](CSC258.pdf) - Computer Organization
+  - [CSC263](CSC263.pdf) - Data Structures and Analysis
+  - [CSC311](CSC311.pdf) - Introduction to Machine Learning
+  - [CSC343](CSC343.pdf) - Introduction to Databases
+  - [CSC373](CSC373.pdf) - Algorithm Design, Analysis & Complexity
+  - [CSC384](CSC384.pdf) - Introduction to Artificial Intelligence
 
 Math:
-  - ~~MAT137~~ - Calculus with Proofs
-  - ~~MAT223~~ - Linear Algebra I
-  - ~~MAT224~~ - Linear Algebra II
-  - MAT237 - Multivariable Calculus with Proofs
-  - ~~MAT244~~ - Introduction to Ordinary Differential Equations
+  - [~~MAT137~~](suboptimal/MAT137.pdf) - Calculus with Proofs
+  - [~~MAT223~~](suboptimal/MAT223.pdf) - Linear Algebra I
+  - [~~MAT224~~](suboptimal/MAT224.pdf) - Linear Algebra II
+  - [MAT237](MAT237.pdf) - Multivariable Calculus with Proofs
+  - [~~MAT244~~](suboptimal/MAT244.pdf) - Introduction to Ordinary Differential Equations
 
 Statistics:
-  - ~~STA247~~ - Probability with Computer Applications
-  - STA248 - Statistics for Computer Scientists
+  - [~~STA247~~](suboptimal/STA247.pdf) - Probability with Computer Applications
+  - [STA248](STA248.pdf) - Statistics for Computer Scientists
 
 Electives:
-  - ~~SPA100~~ - Spanish for Beginners
-  - ~~PSY100~~ - Introductory Psychology
+  - [~~SPA100~~](suboptimal/SPA100.pdf) - Spanish for Beginners
+  - [~~PSY100~~](suboptimal/PSY100.pdf) - Introductory Psychology
