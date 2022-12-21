@@ -3,11 +3,11 @@ My note collection during my undergraduate years
 
 Updated every December and April
 
-The notes for the following courses can be found here:
+The notes for the following courses can be found here (a strikethrough on the course code indicates that the note is not as good as the ones without):
 
 Computer Science:
-  - CSC110 - Foundations of Computer Science I
-  - CSC111 - Foundations of Computer Science II
+  - ~~CSC110~~ - Foundations of Computer Science I
+  - ~~CSC111~~ - Foundations of Computer Science II
   - CSC207 - Software Design
   - CSC209 - Software Tools and Systems Programming
   - CSC236 - Introduction to the Theory of Computation
@@ -19,16 +19,16 @@ Computer Science:
   - CSC384 - Introduction to Artificial Intelligence
 
 Math:
-  - MAT137 - Calculus with Proofs
-  - MAT223 - Linear Algebra I
-  - MAT224 - Linear Algebra II
+  - ~~MAT137~~ - Calculus with Proofs
+  - ~~MAT223~~ - Linear Algebra I
+  - ~~MAT224~~ - Linear Algebra II
   - MAT237 - Multivariable Calculus with Proofs
-  - MAT244 - Introduction to Ordinary Differential Equations
+  - ~~MAT244~~ - Introduction to Ordinary Differential Equations
 
 Statistics:
-  - STA247 - Probability with Computer Applications
+  - ~~STA247~~ - Probability with Computer Applications
   - STA248 - Statistics for Computer Scientists
 
 Electives:
-  - SPA100 - Spanish for Beginners
-  - PSY100 - Introductory Psychology
+  - ~~SPA100~~ - Spanish for Beginners
+  - ~~PSY100~~ - Introductory Psychology
