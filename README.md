@@ -17,6 +17,7 @@ Computer Science:
   - [CSC343](CSC343.pdf) - Introduction to Databases
   - [CSC373](CSC373.pdf) - Algorithm Design, Analysis & Complexity
   - [CSC384](CSC384.pdf) - Introduction to Artificial Intelligence
+  - [CSC412](CSC412.pdf) - Probabilistic Learning and Reasoning
 
 Math:
   - [~~MAT137~~](suboptimal/MAT137.pdf) - Calculus with Proofs
@@ -24,6 +25,7 @@ Math:
   - [~~MAT224~~](suboptimal/MAT224.pdf) - Linear Algebra II
   - [MAT237](MAT237.pdf) - Multivariable Calculus with Proofs
   - [~~MAT244~~](suboptimal/MAT244.pdf) - Introduction to Ordinary Differential Equations
+  - [~~MAT334~~](suboptimal/MAT334.pdf) - Complex Variables
 
 Statistics:
   - [~~STA247~~](suboptimal/STA247.pdf) - Probability with Computer Applications
