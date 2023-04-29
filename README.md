@@ -13,6 +13,7 @@ Computer Science:
   - [CSC236](CSC236.pdf) - Introduction to the Theory of Computation
   - [CSC258](CSC258.pdf) - Computer Organization
   - [CSC263](CSC263.pdf) - Data Structures and Analysis
+  - [CSC309](CSC309.pdf) - Programming on the Web
   - [CSC311](CSC311.pdf) - Introduction to Machine Learning
   - [CSC343](CSC343.pdf) - Introduction to Databases
   - [CSC373](CSC373.pdf) - Algorithm Design, Analysis & Complexity
