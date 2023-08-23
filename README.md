@@ -27,6 +27,7 @@ Math:
   - [MAT237](MAT237.pdf) - Multivariable Calculus with Proofs
   - [~~MAT244~~](suboptimal/MAT244.pdf) - Introduction to Ordinary Differential Equations
   - [~~MAT334~~](suboptimal/MAT334.pdf) - Complex Variables
+  - [APM462](APM462.pdf) - Nonlinear Optimization
 
 Statistics:
   - [~~STA247~~](suboptimal/STA247.pdf) - Probability with Computer Applications
