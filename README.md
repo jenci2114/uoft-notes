@@ -16,6 +16,7 @@ Computer Science:
   - [CSC309](CSC309.pdf) - Programming on the Web
   - [CSC311](CSC311.pdf) - Introduction to Machine Learning
   - [CSC343](CSC343.pdf) - Introduction to Databases
+  - [CSC369](CSC369.pdf) - Operating Systems
   - [CSC373](CSC373.pdf) - Algorithm Design, Analysis & Complexity
   - [CSC384](CSC384.pdf) - Introduction to Artificial Intelligence
   - [CSC412](CSC412.pdf) - Probabilistic Learning and Reasoning
