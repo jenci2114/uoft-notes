@@ -20,6 +20,7 @@ Computer Science:
   - [CSC373](CSC373.pdf) - Algorithm Design, Analysis & Complexity
   - [CSC384](CSC384.pdf) - Introduction to Artificial Intelligence
   - [CSC412](CSC412.pdf) - Probabilistic Learning and Reasoning
+  - [CSC413](CSC413.pdf) - Neural Networks and Deep Learning
 
 Math:
   - [~~MAT137~~](suboptimal/MAT137.pdf) - Calculus with Proofs
