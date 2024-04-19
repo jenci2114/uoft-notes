@@ -29,6 +29,7 @@ Math:
   - [MAT237](MAT237.pdf) - Multivariable Calculus with Proofs
   - [~~MAT244~~](suboptimal/MAT244.pdf) - Introduction to Ordinary Differential Equations
   - [MAT301](MAT301.pdf) - Groups and Symmetries
+  - [MAT315](MAT315.pdf) - Introduction to Number Theory
   - [MAT332](MAT332.pdf) - Introduction to Graph Theory
   - [~~MAT334~~](suboptimal/MAT334.pdf) - Complex Variables
   - [APM462](APM462.pdf) - Nonlinear Optimization
