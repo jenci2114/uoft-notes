@@ -19,7 +19,7 @@ Computer Science:
   - [CSC369](CSC369.pdf) - Operating Systems
   - [CSC373](CSC373.pdf) - Algorithm Design, Analysis & Complexity
   - [CSC384](CSC384.pdf) - Introduction to Artificial Intelligence
-  - [CSC401](CSC401.pdf) - Natural Language Processing
+  - [CSC401](CSC401.pdf) - Natural Language Computing
   - [CSC412](CSC412.pdf) - Probabilistic Learning and Reasoning
   - [CSC413](CSC413.pdf) - Neural Networks and Deep Learning
 
